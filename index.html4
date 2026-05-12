@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Lists</title>
+</head>
+
+<body>
+
+    <h1>Ordered List</h1>
+
+    <ol>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+    </ol>
+
+    <h1>Unordered List</h1>
+
+    <ul>
+        <li>Apple</li>
+        <li>Orange</li>
+        <li>Banana</li>
+    </ul>
+
+</body>
+</html>
