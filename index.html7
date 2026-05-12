@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <title>Colors</title>
+
+    <style>
+
+        body {
+            background-color: lightgray;
+        }
+
+        h1 {
+            color: red;
+        }
+
+        p {
+            color: green;
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+    <h1>The file color</h1>
+
+    <p>This text is green.</p>
+
+</body>
+
+</html>
