@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <title>CSS Introduction</title>
+
+    <style>
+
+        h1 {
+            color: blue;
+        }
+
+        p {
+            font-size: 20px;
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+    <h1> sedra web1 project </h1>
+
+    <p>This paragraph uses CSS styling.</p>
+
+</body>
+
+</html>
