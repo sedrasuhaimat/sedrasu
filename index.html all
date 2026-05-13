@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>my html homework</title>
+</head>
+
+<body>
+
+<h1>Welcome To My Page</h1>
+
+<p>
+this page is for html practice
+</p>
+
+<hr>
+
+<h2>Headings</h2>
+
+<h1>heading 1</h1>
+<h2>heading 2</h2>
+<h3>heading 3</h3>
+
+<hr>
+
+<h2>Paragraphs</h2>
+
+<p>
+HTML is easy to learn.
+</p>
+
+<p>
+I am learning html from w3schools.
+</p>
+
+<hr>
+
+<h2>Links</h2>
+
+<a href="https://www.google.com">
+google
+</a>
+
+<br>
+<br>
+
+<a href="https://www.youtube.com">
+youtube
+</a>
+
+<hr>
+
+<h2>Images</h2>
+
+<img src="https://via.placeholder.com/200">
+
+<hr>
+
+<h2>Formatting</h2>
+
+<b>bold text</b>
+
+<br><br>
+
+<i>italic text</i>
+
+<br><br>
+
+<mark>marked text</mark>
+
+<br><br>
+
+<small>small text</small>
+
+<hr>
+
+<h2>Quotation</h2>
+
+<blockquote>
+learning html is fun
+</blockquote>
+
+<hr>
+
+<h2>Colors</h2>
+
+<p style="color:red;">
+this text is red
+</p>
+
+<p style="background-color:yellow;">
+yellow background
+</p>
+
+<hr>
+
+<h2>Table</h2>
+
+<table border="1">
+
+<tr>
+<th>Name</th>
+<th>Age</th>
+</tr>
+
+<tr>
+<td>sedra</td>
+<td>20</td>
+</tr>
+
+<tr>
+<td>leen</td>
+<td>21</td>
+</tr>
+
+</table>
+
+<hr>
+
+<h2>Lists</h2>
+
+<ul>
+<li>html</li>
+<li>css</li>
+<li>js</li>
+</ul>
+
+<ol>
+<li>study</li>
+<li>eat</li>
+<li>sleep</li>
+</ol>
+
+</body>
+
+</html>
