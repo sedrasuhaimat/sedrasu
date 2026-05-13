@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>html forms</title>
+</head>
+
+<body>
+
+<h1>Forms In HTML</h1>
+
+<p>this is my forms homework</p>
+
+<hr>
+
+<form>
+
+name:
+<br>
+<input type="text">
+
+<br><br>
+
+password:
+<br>
+<input type="password">
+
+<br><br>
+
+email:
+<br>
+<input type="email">
+
+<br><br>
+
+age:
+<br>
+<input type="number">
+
+<br><br>
+
+birthday:
+<br>
+<input type="date">
+
+<br><br>
+
+gender:
+<br>
+
+<input type="radio" name="a"> male
+
+<br>
+
+<input type="radio" name="a"> female
+
+<br><br>
+
+what do you learn?
+
+<br>
+
+<input type="checkbox"> html
+
+<br>
+
+<input type="checkbox"> css
+
+<br>
+
+<input type="checkbox"> js
+
+<br><br>
+
+choose your major
+
+<br>
+
+<select>
+
+<option>IT</option>
+<option>CS</option>
+<option>AI</option>
+
+</select>
+
+<br><br>
+
+write something:
+
+<br>
+
+<textarea rows="4" cols="20"></textarea>
+
+<br><br>
+
+<input type="submit">
+
+<input type="reset">
+
+</form>
+
+</body>
+</html>
